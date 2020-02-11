@@ -415,6 +415,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8576f4db5f1644042b5c256c1be8c5a1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  enemy: {fileID: 6631371422878551746, guid: ead3c51a76e72f94eacc714cc90b36ba, type: 3}
+  powerup: {fileID: 6662399782207288876, guid: 2276e1dffc69d0d4e85829df49339a80, type: 3}
+  obstacle: {fileID: 7266267343363367814, guid: a914ce424d1fc4546b3703cdca0f1ab9,
+    type: 3}
 --- !u!4 &1182960786
 Transform:
   m_ObjectHideFlags: 0
